@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/auth0-keycloak-test/precache-manifest.22df0f01f881cbf2b92a740e91bb41fa.js"
+  "/auth0-keycloak-test/precache-manifest.0962475bc59e106aeda621c5d61f1f4c.js"
 );
 
 self.addEventListener('message', (event) => {

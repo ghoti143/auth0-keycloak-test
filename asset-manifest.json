@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/auth0-keycloak-test/static/css/main.1aa3f63c.chunk.css",
-    "main.js": "/auth0-keycloak-test/static/js/main.aab8f070.chunk.js",
-    "main.js.map": "/auth0-keycloak-test/static/js/main.aab8f070.chunk.js.map",
+    "main.js": "/auth0-keycloak-test/static/js/main.f138f807.chunk.js",
+    "main.js.map": "/auth0-keycloak-test/static/js/main.f138f807.chunk.js.map",
     "runtime-main.js": "/auth0-keycloak-test/static/js/runtime-main.5d73922d.js",
     "runtime-main.js.map": "/auth0-keycloak-test/static/js/runtime-main.5d73922d.js.map",
     "static/css/2.11b452ed.chunk.css": "/auth0-keycloak-test/static/css/2.11b452ed.chunk.css",
     "static/js/2.0aa94306.chunk.js": "/auth0-keycloak-test/static/js/2.0aa94306.chunk.js",
     "static/js/2.0aa94306.chunk.js.map": "/auth0-keycloak-test/static/js/2.0aa94306.chunk.js.map",
     "index.html": "/auth0-keycloak-test/index.html",
-    "precache-manifest.22df0f01f881cbf2b92a740e91bb41fa.js": "/auth0-keycloak-test/precache-manifest.22df0f01f881cbf2b92a740e91bb41fa.js",
+    "precache-manifest.0962475bc59e106aeda621c5d61f1f4c.js": "/auth0-keycloak-test/precache-manifest.0962475bc59e106aeda621c5d61f1f4c.js",
     "service-worker.js": "/auth0-keycloak-test/service-worker.js",
     "static/css/2.11b452ed.chunk.css.map": "/auth0-keycloak-test/static/css/2.11b452ed.chunk.css.map",
     "static/css/main.1aa3f63c.chunk.css.map": "/auth0-keycloak-test/static/css/main.1aa3f63c.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.11b452ed.chunk.css",
     "static/js/2.0aa94306.chunk.js",
     "static/css/main.1aa3f63c.chunk.css",
-    "static/js/main.aab8f070.chunk.js"
+    "static/js/main.f138f807.chunk.js"
   ]
 }
