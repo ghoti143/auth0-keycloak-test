@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca51ebfa9d8345fe1ae1001debd8b7ac",
+    "revision": "bda4850ef34eaaa4fba46cd31d427157",
     "url": "/auth0-keycloak-test/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/auth0-keycloak-test/static/css/2.11b452ed.chunk.css"
   },
   {
-    "revision": "d58383fab8fa48a8268a",
+    "revision": "2ee3cd021a4a9acc890a",
     "url": "/auth0-keycloak-test/static/css/main.1aa3f63c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/auth0-keycloak-test/static/js/2.0aa94306.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d58383fab8fa48a8268a",
-    "url": "/auth0-keycloak-test/static/js/main.f138f807.chunk.js"
+    "revision": "2ee3cd021a4a9acc890a",
+    "url": "/auth0-keycloak-test/static/js/main.0b4ef181.chunk.js"
   },
   {
     "revision": "9d9f29a311c8b583c93c",
